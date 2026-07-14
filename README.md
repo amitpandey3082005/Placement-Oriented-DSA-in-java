@@ -40,5 +40,19 @@ My code is cleanly organized into the following folder structure:
 ```
 
 ---
-*💡 "Every line of code written today builds the logic for tomorrow's complex algorithms."*
 
+## 💻 How to Run the Code
+
+To run any program from this repository, follow these simple steps in your terminal:
+
+1. **Compile the Java File:**
+   ```bash
+   javac FileName.java
+   ```
+2. **Execute the Compiled Code:**
+   ```bash
+   java FileName
+   ```
+
+---
+*💡 "Every line of code written today builds the logic for tomorrow's complex algorithms."*
