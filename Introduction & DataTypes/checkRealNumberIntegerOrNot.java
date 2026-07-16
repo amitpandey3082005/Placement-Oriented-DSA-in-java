@@ -13,6 +13,10 @@ public class checkRealNumberIntegerOrNot {
         if(n == (int) n) System.out.println("Yes , this real number is also a integer"); 
         else System.out.println("No , It is not a Integer ");
 
+        // Approch 2 
+        if(n%1 ==0) System.out.print("Yes , It is integer");
+        else System.out.print("No , It is not Integer");
+
         sc.close();
     }
 }
