@@ -36,7 +36,8 @@ My code is cleanly organized into the following folder structure:
 ├── 01-Variables-DataTypes/
 ├── 02-Conditionals/
 ├── 03-Loops/
-└── 04-Pattern-Printing/
+├── 04-Pattern-Printing/
+└── 04-Array-in-java/
 ```
 
 ---
