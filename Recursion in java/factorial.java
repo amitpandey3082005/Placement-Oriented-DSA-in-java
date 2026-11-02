@@ -3,6 +3,7 @@ import java.util.*;
 
 public class factorial {
 
+    // time Complexcity O(n) and pace Complexcity O(n)
     public static int factorial(int n) {
         // Base case 
         if (n <= 1) {
